@@ -1,6 +1,6 @@
 -- SQLite
 INSERT INTO Users (Id, UserName)
-VALUES (1, "Naf");
+VALUES (1, "nsg");
 
 INSERT INTO Users (Id, UserName)
 VALUES (2, "Tyler");

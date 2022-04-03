@@ -454,6 +454,10 @@ $RECYCLE.BIN/
 !.vscode/extensions.json
 
 appsettings.json
+sr.db-shm
+sr.db-wal
 .vscode 
+
+--sr-SQLite.sql
 
 
