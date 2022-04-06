@@ -6,7 +6,9 @@ namespace API.Entities
 
         public string UserName { get; set; }
 
-        protected string sr_id { get; set; }
+        public byte[] PasswordHash { get; set; }
+
+        public byte[] PasswordSalt { get; set; }
 
     }
 }
